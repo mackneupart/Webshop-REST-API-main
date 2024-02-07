@@ -1,0 +1,394 @@
+[
+    {
+        "productId": 1,
+        "productName": "Viking",
+        "productDescription": "A duck ready for battle! Yes, that's how it can go when a rubber duck dresses up as a Viking. Play along! It can be a tough fight when all the enemies attack. \n \n This Viking rubber duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually. ",
+        "productPrice": 49,
+        "imgSrc": "/duck1.webp"
+    },
+    {
+        "productId": 2,
+        "productName": "Diver",
+        "productDescription": "A rubber duck that stands out, as it has a snorkel and flippers. Whether it performs better under water than an ordinary duck thanks to the equipment is difficult to know. But try!  \n \n This diver rubber duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck2.webp"
+    },
+    {
+        "productId": 3,
+        "productName": "Unicorn",
+        "productDescription": "You probably already know that unicorns are magical animals, but it might come as a surprise that even a little yellow duck has realized that unicorns are cool too. In any case, this duck wants to be a unicorn, and it wants to bathe at the same time.  \n \n This unicorn rubber duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck3.webp"
+    },
+    {
+        "productId": 4,
+        "productName": "Soccer",
+        "productDescription": "Dare you take on a duck in an American football uniform? It won't be just any fight, but a tough water fight. This cool duck loves swimming as much as it loves American football.\n \n This rubber duck soccer player, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck4.webp"
+    },
+    {
+        "productId": 5,
+        "productName": "Cake",
+        "productDescription": "This cute duck makes celebrating a birthday a little more fun. A super fun gift which is the perfect company in the bath and a fun memory from the birthday party. \n \n The cake duck looks like the classic yellow duck with a birthday cake on the head and the text \"Happy Birthday\" printed on the chest in different bright colours. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck5.webp"
+    },
+    {
+        "productId": 6,
+        "productName": "Captain",
+        "productDescription": "For this captain it is enough to sail the water in your bathtub. And it's not the easiest. There can be bath foam to steer clear of, not to mention all the other bath toys. \n \n This captain rubber duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck6.webp"
+    },
+    {
+        "productId": 7,
+        "productName": "Cook",
+        "productDescription": "Are you looking for a wonderful graduation present for a chef? Then you've come to the right place! This lovely duck is wearing a cute chef outfit and will undoubtedly make an appreciated gift. It is also an obvious birthday present for you who already work as a chef. \n \n This rubber duck is fully dressed as a cook. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck7.webp"
+    },
+    {
+        "productId": 8,
+        "productName": "Craftsman",
+        "productDescription": "A duck in a craftsman's outfit, which is perfect for the person who works in this field. You can also use it as a graduation gift for someone who has just been trained as a craftsman or building constructor. It will be a hit with the recipient! \n \n This rubber duck is fully dressed as a craftsman. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck8.webp"
+    },
+    {
+        "productId": 9,
+        "productName": "Hostess",
+        "productDescription": "This female duck has everything it takes to have a successful October party including a pretzel in one hand and a glass of beer in the other. Get an October party in your bathtub today! \n \n This October party duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck9.webp"
+    },
+    {
+        "productId": 10,
+        "productName": "Groom",
+        "productDescription": "If there is one time in life when a man should wash himself clean, it is when he is getting married. If you know someone who has a wedding on the calendar and doesn't like to wash himself, then we have the perfect gift for his bachelor party. \n \n This groom rubber duck, measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck10.webp"
+    },
+    {
+        "productId": 11,
+        "productName": "Lifeguard",
+        "productDescription": "When lying in the bathtub, and you slowly start to lose control of the situation. It's best to let this prominent lifeguard duck keep an eye on you so you can wash in peace and quiet. Why not name it Mitch Buchhannon? \n \n This rubber duck is fully dressed as a lifeguard. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck11.webp"
+    },
+    {
+        "productId": 12,
+        "productName": "Gamer",
+        "productDescription": "This duck is a washable computer gamer, sunk deep into the sofa in front of the screen with its cap on backwards. When it stops playing for the day, it likes to take a hot bath with lots of foam, and if you're lucky, you can join in! \n \n This gamer measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck12.webp"
+    },
+    {
+        "productId": 13,
+        "productName": "Gamer",
+        "productDescription": "Be brave and strong! How else would you dare to bathe with a duck that looks like a skeleton? However, this little duck skeleton is a cute and just wants to swim around and enjoy the suds in your bathtub. \n \n This skeleton duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck13.webp"
+    },
+    {
+        "productId": 14,
+        "productName": "Gamer",
+        "productDescription": "People who go to the gym a lot, spend a lot of time in the bath. If they don't, the risk of them being referred to for their smell rather than their muscles is quite high. This training rubber duck that can keep you company in the many baths. \n \n This rubber duck is fully equipped weightlifter. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck14.webp"
+    },
+    {
+        "productId": 15,
+        "productName": "Yogi",
+        "productDescription": "After a whole day on the yoga mat, it's always nice to jump in a hot bath to exhale, but don't forget to invite the rubber duck who shares the same love for yoga as you! \n \n This yogi rubber duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck15.webp"
+    },
+    {
+        "productId": 16,
+        "productName": "Teacher",
+        "productDescription": "Are you a teacher? Let the rubber duck in your bathtub represent you and your profession! It's always fun to have personal things in your home, and this one will fit perfectly in the bathroom! \n \n This teacher rubber duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck16.webp"
+    },
+    {
+        "productId": 17,
+        "productName": "Flower",
+        "productDescription": "Just when you thought rubber ducks couldn't get any cuter! Who would have thought that after seeing them as superheroes, police officers, influencers, grooms, hippies and emergency workers, you would also see them as a beautiful flower? \n \n This flower rubber duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck17.webp"
+    },
+    {
+        "productId": 18,
+        "productName": "Barista",
+        "productDescription": "This cute barista is filling a cup with coffee. We can guarantee that everything will be a little more fun in the bathtub with a cool duck like this! \n \n This barista rubber duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck18.webp"
+    },
+    {
+        "productId": 19,
+        "productName": "Developer",
+        "productDescription": "Let the bath duck in your bathtub represent who you are! There is a duck out there for most people. An IT developer? Of course! Glasses, computer in hand and tie - this duck is perfect! \n \n This developer rubber duck measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck19.webp"
+    },
+    {
+        "productId": 20,
+        "productName": "Cyclist",
+        "productDescription": "For this rubber duck the best thing is cycling, and after the bike ride, it likes to come home and fill the bathtub with hot water. Do you want to come? \n \n This rubber duck is fully equipped cyclist. Measures 8.5 x 7.5 x 8.5 cm is made of plastic and sold individually.",
+        "productPrice": 49,
+        "imgSrc": "/duck20.webp"
+    },
+    {
+        "productId": 21,
+        "productName": "Tote bag",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 39,
+        "imgSrc": "/Bag1.webp"
+    },
+    {
+        "productId": 22,
+        "productName": "Backpack",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 69,
+        "imgSrc": "/Bag2.webp"
+    },
+    {
+        "productId": 23,
+        "productName": "Tote bag",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 39,
+        "imgSrc": "/Bag3.webp"
+    },
+    {
+        "productId": 24,
+        "productName": "Tote bag",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 39,
+        "imgSrc": "/Bag4.webp"
+    },
+    {
+        "productId": 25,
+        "productName": "Tote bag",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 39,
+        "imgSrc": "/Bag5.webp"
+    },
+    {
+        "productId": 26,
+        "productName": "Tote bag",
+        "productDescription": "Bring the duck shopping! Reusable, lightweight go-everywhere bag keeps you ready to shop responsibly. \n \n Bag measures 38.5 x 40 cm and is made of lightweight 4.2 oz (145g) 100% cotton fabric",
+        "productPrice": 39,
+        "imgSrc": "/Bag6.webp"
+    },
+    {
+        "productId": 27,
+        "productName": "Pendant",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 89,
+        "imgSrc": "/Jew1.webp"
+    },
+    {
+        "productId": 28,
+        "productName": "Pendant",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 79,
+        "imgSrc": "/Jew2.webp"
+    },
+    {
+        "productId": 29,
+        "productName": "Necklace",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 79,
+        "imgSrc": "/Jew3.webp"
+    },
+    {
+        "productId": 30,
+        "productName": "Necklace",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 109,
+        "imgSrc": "/Jew4.webp"
+    },
+    {
+        "productId": 31,
+        "productName": "Earrings",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 49,
+        "imgSrc": "/Jew5.webp"
+    },
+    {
+        "productId": 32,
+        "productName": "Earrings",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming jewel! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 49,
+        "imgSrc": "/Jew6.webp"
+    },
+    {
+        "productId": 33,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Key1.webp"
+    },
+    {
+        "productId": 34,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Key2.webp"
+    },
+    {
+        "productId": 35,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "Key3.webp"
+    },
+    {
+        "productId": 36,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Key4.webp"
+    },
+    {
+        "productId": 37,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! If can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Key5.webp"
+    },
+    {
+        "productId": 38,
+        "productName": "Keyring",
+        "productDescription": "Bring your favorite duck with you everywhere as a charming keyring! It can cute up any outfit. \n \n Measures 3.5 cm, it will last forever and is made of the purest gold that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Key6.webp"
+    },
+    {
+        "productId": 39,
+        "productName": "Bucket Hat",
+        "productDescription": "Let the rubber duck protects you from the sun! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Hat1.webp"
+    },
+    {
+        "productId": 40,
+        "productName": "Bucket Hat",
+        "productDescription": "Let the rubber duck protects you from the sun! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Hat2.webp"
+    },
+    {
+        "productId": 41,
+        "productName": "Shower cap",
+        "productDescription": "Let the rubber duck protects you from the water! This hat can cute up any shower \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Hat3.webp"
+    },
+    {
+        "productId": 42,
+        "productName": "Bucket Hat",
+        "productDescription": "Let the rubber duck protects you from the sun! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Hat4.webp"
+    },
+    {
+        "productId": 43,
+        "productName": "Bucket Hat",
+        "productDescription": "Let the rubber duck protects you from the cold! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 39,
+        "imgSrc": "/Hat5.webp"
+    },
+    {
+        "productId": 44,
+        "productName": "Duck cap",
+        "productDescription": "Let the rubber duck protects you from the sun! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 69,
+        "imgSrc": "/Hat6.webp"
+    },
+    {
+        "productId": 45,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock1.webp"
+    },
+    {
+        "productId": 46,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock2.webp"
+    },
+    {
+        "productId": 47,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock3.webp"
+    },
+    {
+        "productId": 48,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock4.webp"
+    },
+    {
+        "productId": 49,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock5.webp"
+    },
+    {
+        "productId": 50,
+        "productName": "Duck socks",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Sock6.webp"
+    },
+    {
+        "productId": 51,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie1.webp"
+    },
+    {
+        "productId": 52,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie2.webp"
+    },
+    {
+        "productId": 53,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie3.webp"
+    },
+    {
+        "productId": 54,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie4.webp"
+    },
+    {
+        "productId": 55,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie5.webp"
+    },
+    {
+        "productId": 56,
+        "productName": "Duck tie",
+        "productDescription": "Let the rubber duck protects your feet! This hat can cute up any outfit \n \n Measures 14.5 cm, it will last forever and is made of the purest cotton that ducks can find on their swims",
+        "productPrice": 59,
+        "imgSrc": "/Tie6.webp"
+    }
+]

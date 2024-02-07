@@ -1,0 +1,50 @@
+[
+    {
+        "customerId": 1,
+        "firstName": "Christian",
+        "lastName": "someLastName",
+        "email": "test@itu.dk",
+        "basketId": 1,
+        "password": "12345"
+    },
+    {
+        "customerId": 2,
+        "firstName": "Mack",
+        "lastName": "someLastName",
+        "email": "test@itu.dk",
+        "basketId": 2,
+        "password": "12345"
+    },
+    {
+        "customerId": 3,
+        "firstName": "Lena",
+        "lastName": "someLastName",
+        "email": "test@itu.dk",
+        "basketId": 3,
+        "password": "12345"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Johnsen",
+        "email": "John@mail.dk",
+        "password": "1234",
+        "customerId": 4,
+        "basketId": 4
+    },
+    {
+        "firstName": "Guest",
+        "lastName": "",
+        "email": "",
+        "password": "",
+        "customerId": 5,
+        "basketId": 5
+    },
+    {
+        "firstName": "Christian",
+        "lastName": "test",
+        "email": "test@test.com",
+        "password": "test1234",
+        "customerId": 6,
+        "basketId": 6
+    }
+]

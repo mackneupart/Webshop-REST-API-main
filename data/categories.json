@@ -1,0 +1,159 @@
+{
+    "categories": [
+        {
+            "overCategoryName": "Rubber Ducks",
+            "ocId": 1,
+            "imgSrc": "/allDucksImage.webp",
+            "priceRange": "49",
+            "subCategories": [
+                {
+                    "subcId": 1,
+                    "subCategoryName": "Carnival",
+                    "imgSrc": "/dressUpProductsImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        1,
+                        9,
+                        13,
+                        17,
+                        6,
+                        4,
+                        3,
+                        10
+                    ]
+                },
+                {
+                    "subcId": 2,
+                    "subCategoryName": "Professions",
+                    "imgSrc": "/profProductsImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        6,
+                        7,
+                        8,
+                        11,
+                        16,
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "subcId": 3,
+                    "subCategoryName": "Alternative",
+                    "imgSrc": "/allDucksImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        14,
+                        15,
+                        20,
+                        12,
+                        10,
+                        5,
+                        4,
+                        2
+                    ]
+                }
+            ]
+        },
+        {
+            "overCategoryName": "Accessories",
+            "ocId": 2,
+            "imgSrc": "/AllAccessoriesImage.webp",
+            "priceRange": "39 - 109",
+            "subCategories": [
+                {
+                    "subcId": 4,
+                    "subCategoryName": "Bags",
+                    "imgSrc": "/allBagsImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        21,
+                        22,
+                        23,
+                        24,
+                        25,
+                        26
+                    ]
+                },
+                {
+                    "subcId": 5,
+                    "subCategoryName": "Jewlery",
+                    "imgSrc": "/AllJewleryImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        27,
+                        28,
+                        29,
+                        30,
+                        31,
+                        32
+                    ]
+                },
+                {
+                    "subcId": 6,
+                    "subCategoryName": "Keyrings",
+                    "imgSrc": "/AllKeysImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        33,
+                        34,
+                        35,
+                        36,
+                        37,
+                        38
+                    ]
+                }
+            ]
+        },
+        {
+            "overCategoryName": "Clothes",
+            "ocId": 3,
+            "imgSrc": "/AllClothesImage.webp",
+            "priceRange": "39 - 69",
+            "subCategories": [
+                {
+                    "subcId": 7,
+                    "subCategoryName": "Hats",
+                    "imgSrc": "/AllHatsImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44
+                    ]
+                },
+                {
+                    "subcId": 8,
+                    "subCategoryName": "Socks",
+                    "imgSrc": "/AllSocksImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        45,
+                        46,
+                        47,
+                        48,
+                        49,
+                        50
+                    ]
+                },
+                {
+                    "subcId": 9,
+                    "subCategoryName": "Ties",
+                    "imgSrc": "/AllTiesImage.webp",
+                    "priceRange": "49",
+                    "productsIds": [
+                        51,
+                        52,
+                        53,
+                        54,
+                        55,
+                        56
+                    ]
+                }
+            ]
+        }
+    ]
+}

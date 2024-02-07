@@ -1,0 +1,79 @@
+
+//Get all products without productDescription
+GET http://localhost:3000/products HTTP/1.1
+
+###
+
+//Get newly added products
+GET http://localhost:3000/products/carrousel HTTP/1.1
+
+###
+
+//Get specific product
+GET http://localhost:3000/products/1 HTTP/1.1
+
+###
+
+//Get all categories
+GET http://localhost:3000/categories HTTP/1.1
+
+###
+
+//Get all over categories without sub categories
+GET http://localhost:3000/categories/overcategories HTTP/1.1
+
+###
+
+//Get all sub categories to a specific over category
+GET http://localhost:3000/categories/overcategories/1 HTTP/1.1
+
+###
+
+//Get all products (without description) associated with specific sub categoryID
+GET http://localhost:3000/categories/overcategories/1/1 HTTP/1.1
+
+###
+
+//Create new customer
+POST http://localhost:3000/customers HTTP/1.1
+content-type: application/json
+
+{"firstName": "Test4", "lastName": "Test4", "email": "Test4", "password": "12345" }
+
+###
+
+//GET guest customers
+GET http://localhost:3000/customers/guest HTTP/1.1
+
+
+###
+
+//GET customers
+GET http://localhost:3000/customers HTTP/1.1
+
+
+###
+
+//Get details of specific customer
+GET http://localhost:3000/customers/3 HTTP/1.1
+
+###
+
+//Get all products in a customer's basket
+GET http://localhost:3000/baskets/1 HTTP/1.1
+
+###
+
+//Add product to basket
+PUT http://localhost:3000/baskets/2/4 HTTP/1.1
+
+###
+
+//Delete product from basket
+DELETE http://localhost:3000/baskets/1/1 HTTP/1.1
+
+###
+
+//Delete all products from a specific customer basket
+DELETE http://localhost:3000/baskets/5 HTTP/1.1
+
